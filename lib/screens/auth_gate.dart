@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import '../services/auth_service.dart'; // <-- استيراد خدمة المصادقة
 import './login_screen.dart'; // <-- استيراد شاشة تسجيل الدخول
-import './success_screen.dart'; // <-- استيراد شاشة النجاح
+import 'home_screen.dart'; // <-- استيراد شاشة النجاح
 
 class AuthGate extends StatelessWidget {
   const AuthGate({super.key});
