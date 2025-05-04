@@ -1,7 +1,18 @@
 # flutter_firebase_auth_lab
 
-A new Flutter project.
 
+## لقطات شاشة (Screenshots)
+
+<p align="center">
+  <img src="screenshots/login_screen.jpeg" alt="شاشة تسجيل الدخول" width="250"/>
+        <!-- مسافة -->
+  <img src="screenshots/register_screen.jpeg" alt="شاشة إنشاء حساب" width="250"/>
+        <!-- مسافة -->
+  <img src="screenshots/home_screen.jpeg" alt="الشاشة الرئيسية" width="250"/>
+</p>
+![شاشة تسجيل الدخول](screenshots/login_screen.png)
+![شاشة إنشاء حساب](screenshots/register_screen.png)
+![الشاشة الرئيسية](screenshots/home_screen.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
