@@ -10,9 +10,7 @@
         <!-- مسافة -->
   <img src="screenshots/home_screen.jpeg" alt="الشاشة الرئيسية" width="250"/>
 </p>
-![شاشة تسجيل الدخول](screenshots/login_screen.png)
-![شاشة إنشاء حساب](screenshots/register_screen.png)
-![الشاشة الرئيسية](screenshots/home_screen.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
